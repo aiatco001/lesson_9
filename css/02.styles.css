@@ -1,0 +1,9 @@
+#block p.bbb{
+	color: yellowgreen;
+}
+h2.xxx, p.aaa{
+	color: orangered;
+}
+#block1 p.ddd, p.xxx{
+	color: rgb(38, 0, 255);
+}
